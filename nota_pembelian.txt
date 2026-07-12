@@ -1,0 +1,13 @@
+==================================
+          NOTA PEMBELIAN          
+==================================
+Nama pembeli: Hafiz
+Barang: Marlboro Red 1 Slop
+Harga barang: Rp500000
+Jumlah barang: 6pcs
+---------------------------------
+Total harga: Rp3000000
+ Setelah diskon: Rp2950000
+==================================
+      JANLUP BELI DISINI LAGI     
+==================================

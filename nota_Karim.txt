@@ -1,0 +1,13 @@
+==================================
+          NOTA PEMBELIAN          
+==================================
+Nama pembeli: Karim
+Barang: Djarum Coklat
+Harga barang: Rp17000
+Jumlah barang: 40pcs
+---------------------------------
+Total harga: Rp680000
+Setelah diskon: Rp630000
+==================================
+      JANLUP BELI DISINI LAGI     
+==================================

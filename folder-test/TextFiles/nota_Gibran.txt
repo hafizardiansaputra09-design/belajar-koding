@@ -1,0 +1,14 @@
+==================================
+          NOTA PEMBELIAN          
+==================================
+Waktu pencetakan: Tue Jun 23 23:29:25 2026
+Nama pembeli: Gibran
+Barang: Esse Change Grape 20 btg
+Harga barang: Rp47000
+Jumlah barang: 50pcs
+---------------------------------
+Total harga: Rp2350000
+Setelah diskon: Rp2300000
+==================================
+      JANLUP BELI DISINI LAGI     
+==================================

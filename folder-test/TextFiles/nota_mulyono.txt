@@ -1,0 +1,14 @@
+==================================
+          NOTA PEMBELIAN          
+==================================
+Waktu cetak: Thu Jun 25 19:52:30 2026
+Nama pembeli: mulyono
+Barang: kontol hitam
+Harga barang: Rp100000
+Jumlah barang: 12pcs
+---------------------------------
+Total harga: Rp1200000
+Setelah diskon: Rp1150000
+==================================
+      JANLUP BELI DISINI LAGI     
+==================================

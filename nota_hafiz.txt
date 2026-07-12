@@ -1,0 +1,14 @@
+==================================
+          NOTA PEMBELIAN          
+==================================
+Waktu cetak: Wed Jul  1 17:55:13 2026
+Nama pembeli: hafiz
+Barang: earphone iem
+Harga barang: Rp250000
+Jumlah barang: 4pcs
+---------------------------------
+Total harga: Rp1000000
+Setelah diskon: Rp950000
+==================================
+      JANLUP BELI DISINI LAGI     
+==================================

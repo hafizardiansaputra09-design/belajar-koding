@@ -1,0 +1,14 @@
+==================================
+          NOTA PEMBELIAN          
+==================================
+Waktu cetak: Thu Jun 25 19:24:16 2026
+Nama pembeli: Ibuk
+Barang: bimoli
+Harga barang: Rp18000
+Jumlah barang: 7pcs
+---------------------------------
+Total harga: Rp126000
+Setelah diskon: Rp126000
+==================================
+      JANLUP BELI DISINI LAGI     
+==================================

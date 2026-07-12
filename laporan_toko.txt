@@ -1,0 +1,10 @@
+Nama pembeli: Hafiz, Barang: Marlong 1 Press, Harga: Rp450000, Jumlah: 6pcs, Total: Rp2650000
+Nama pembeli: Karim, Barang: Djarum Coklat, Harga: Rp17000, Jumlah: 40pcs, Total: Rp630000
+Nama pembeli: Gibran, Barang: Esse Change Grape 20 btg, Harga: Rp47000, Jumlah: 50pcs, Total: Rp2300000
+Nama pembeli: Hafiz, Barang: Cerutu 4 btg set, Harga: Rp2000000, Jumlah: 5pcs, Total: Rp9950000
+Nama pembeli: Ibuk, Barang: bimoli, Harga: Rp18000, Jumlah: 7pcs, Total: Rp126000
+Nama pembeli: mulyono, Barang: kontol hitam, Harga: Rp100000, Jumlah: 12pcs, Total: Rp1150000
+Nama pembeli: hafiz, Barang: sampoerna mild 16 btg, Harga: Rp37000, Jumlah: 8pcs, Total: Rp271000
+Nama pembeli: hafiz, Barang: bimoli, Harga: Rp17000, Jumlah: 6pcs, Total: Rp102000
+Nama pembeli: hafiz, Barang: seven, Harga: Rp18000, Jumlah: 14pcs, Total: Rp227000
+Nama pembeli: hafiz, Barang: earphone iem, Harga: Rp250000, Jumlah: 4pcs, Total: Rp950000
